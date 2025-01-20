@@ -1,4 +1,4 @@
-package com.mycompany.practicarexamen.Secuencial;
+package com.mycompany.practicarexamen.javaIO.Secuencial;
 
 import java.io.File;
 import java.io.FileNotFoundException;
