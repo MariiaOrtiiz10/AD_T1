@@ -1,6 +1,9 @@
-com\mycompany\practicarexamen\javaIO\Aleatorio\raf.class
 com\mycompany\practicarexamen\javaIO\Secuencial\escribirYleerSecuencialBinario.class
 com\mycompany\practicarexamen\javaIO\Secuencial\escribiryleerSecuencialPlano.class
 com\mycompany\practicarexamen\javaIO\Secuencial\Persona.class
+com\mycompany\practicarexamen\XML\SAX\leerSAX.class
 com\mycompany\practicarexamen\javaIO\claseFile\ClaseFile.class
+com\mycompany\practicarexamen\XML\DOM\leerDOM.class
+com\mycompany\practicarexamen\XML\DOM\escribirDOM.class
+com\mycompany\practicarexamen\javaIO\Aleatorio\raf.class
 com\mycompany\practicarexamen\javaNio\Binario\JAVAnioBinario.class
